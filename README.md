@@ -23,4 +23,3 @@ Link to Report:
 Link to SQL Code: 
 Link to R Code:
 Link to Tableau Code:
-# SQL-DietaryRestrictions
