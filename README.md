@@ -1,6 +1,6 @@
-# Dietary Restrictions Around The Globe (using SQL, R, Tableau)
+# Dietary Restrictions Around The Globe
 
-Data modeling using SQL Server, R, and Tableau. Created December 2018. 
+Data modeling and analysis using SQL Server, R, and Tableau. Created December 2018. 
 
 Goal
 --------------------
@@ -18,8 +18,9 @@ in August 2016 and is available as an Excel spreadsheet from Makeover Monday Web
 Links
 --------------------
 
-Link to Report: 
+Link to Report: https://github.com/BethHilbert/SQL-DietaryRestrictions/blob/master/DietaryRestrictions%20Report.pdf
 
-Link to SQL Code: 
-Link to R Code:
-Link to Tableau Code:
+Link to SQL Code: https://github.com/BethHilbert/SQL-DietaryRestrictions/blob/master/SQL%20-%20FoodTrends.sql
+
+Link to R Code: https://github.com/BethHilbert/SQL-DietaryRestrictions/blob/master/RCode%20-%20FoodTrends.R
+
